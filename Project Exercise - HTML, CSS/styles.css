@@ -1,0 +1,17 @@
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.news-title {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.article-title {
+    font-size: 24px;
+    font-style: italic;
+
+}
+
