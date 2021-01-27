@@ -1,0 +1,15 @@
+{
+  "name": "Integrating-with-Other-Libraries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "popmotion": "^9.1.0"
+  }
+}
